@@ -1,2 +1,5 @@
 When you initialize a repo, it sets up a base to track files. You need to do it
 to have something to commit.
+
+Staging area is a way to show what files have changed vs. what files will remain the same
+in the newest commit. Working directory is just the files that exist on the system as is.
