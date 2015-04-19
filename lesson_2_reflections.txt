@@ -8,3 +8,5 @@ Branches would be helpful when trying to make a new change, but don't necessaril
 existing functionality of the program.
 
 Diagrams help visualize how git goes through different branches and changes when you move.
+
+Merging finds what's in common and compiles it and finds what's added and adds it.
