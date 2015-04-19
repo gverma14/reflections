@@ -1,0 +1,2 @@
+When you initialize a repo, it sets up a base to track files. You need to do it
+to have something to commit.

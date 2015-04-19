@@ -1,0 +1,21 @@
+The diff command made it easier to see
+what code was added and removed, that way
+I could follow the logic much easier and fix the error.
+
+Having easy access to the history makes it so
+that I can see the earlier mistakes I made.
+
+Pros of manually choosing when to commit is there will
+be a more logical sense on where the save points are.
+Cons of this system are that you have to remember yourself 
+and it's possible that you could forget.
+
+Git allows for saving multiple files so it treats it as one entire project
+where all the files relate to each other.
+
+git log and git diff allow you to go through the history of commits so you can 
+see exactly what changes were made
+
+Using version control makes it easier to spot mistakes that might have been made
+
+Would like to use it for different versions of apps
