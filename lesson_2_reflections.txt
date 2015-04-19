@@ -3,3 +3,6 @@ to have something to commit.
 
 Staging area is a way to show what files have changed vs. what files will remain the same
 in the newest commit. Working directory is just the files that exist on the system as is.
+
+Branches would be helpful when trying to make a new change, but don't necessarily want to break 
+existing functionality of the program.
