@@ -8,3 +8,5 @@ Forks allow you to take a project on Github and clone them on Github itself givi
 Clones take a project on Github and allow you to modify them locally.
 Branches allow you to deviate from what you're currently working on to work on experimental features that
 won't break what is already working.
+
+Having a copy of the last known state of the remote stored locally allows you to merge changes on the go.
