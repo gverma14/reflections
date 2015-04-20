@@ -1,1 +1,5 @@
 Using a remote repository is good for sharing your work with others.
+
+You would want to pull changes manually because you might be in the middle of making
+a feature change that may not be able to merge properly with a change someone else has made
+right away.
