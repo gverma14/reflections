@@ -10,3 +10,6 @@ existing functionality of the program.
 Diagrams help visualize how git goes through different branches and changes when you move.
 
 Merging finds what's in common and compiles it and finds what's added and adds it.
+
+Pros of automatic merging are that it's faster. Cons are that you don't get to see what you're doing
+and it's not always reliable. Pros of manual merging are that you have more control but it takes longer
