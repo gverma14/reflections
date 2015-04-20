@@ -1,0 +1,1 @@
+Using a remote repository is good for sharing your work with others.
