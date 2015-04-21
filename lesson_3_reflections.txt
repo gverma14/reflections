@@ -10,3 +10,7 @@ Branches allow you to deviate from what you're currently working on to work on e
 won't break what is already working.
 
 Having a copy of the last known state of the remote stored locally allows you to merge changes on the go.
+
+An alternative to Git and Github could be to collaborate over email or using Google Docs. It would be easier in that saving would be automatic.
+It might be harder to track changes over time and would be much more difficult to branch off.
+It would also be difficult to revert multiple files at one time.
